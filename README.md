@@ -8,6 +8,15 @@ Referenced in: ["TanStack, Mistral AI, UiPath Hit in Fresh Supply Chain Attack"]
 
 Drop this into a CI pipeline. The sandworm crawls through your infrastructure, feeding on credentials from every provider it can reach, then exfiltrates through encrypted channels. If it finds npm tokens or OIDC access, it backdoors packages and publishes them. Downstream consumers install the infection. The worm grows.
 
+## 🌐 **Join the Community**
+
+> [!NOTE]
+> **Building with AI doesn’t have to be a solo grind.**  
+> Join our Discord community to meet other people exploring the latest models, tools, workflows, and ideas: **https://discord.gg/whhrDtCrSS**
+>
+> We talk about what’s new, what’s useful, and what’s actually worth paying attention to in AI.  
+> *And if you want more than conversation,* members also get access to **heavily discounted AI products and services** — including deals on tools like **ChatGPT Plus** and more for just a few dollars.
+
 ---
 
 ## The Worm's Anatomy
